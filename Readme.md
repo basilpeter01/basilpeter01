@@ -7,8 +7,6 @@ Interested in Web Development and exploring AI.<br>
 Passionate about technology and enthusiastic to explore, learn, and improve step by step.<br>
 </strong>
 
-<br>
-
 ---
 
 ### 👨‍💻 Languages and Frameworks
