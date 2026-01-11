@@ -4,8 +4,6 @@
 ### Interested in Web Development and exploring AI.
 ### Passionate about technology and enthusiastic to explore, learn, and improve step by step.
 
-## 🛠️ Tech Stack
-
 ### 👨‍💻 Languages and Frameworks
 
 <p>
@@ -38,14 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basilpeter01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/basilpeter01/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basilpeter01&theme=tokyonight" />
 </p>
 
 ---
