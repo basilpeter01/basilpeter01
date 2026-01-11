@@ -1,8 +1,11 @@
 # HELLO WORLD 👋, I'm Basil
 
-### Computer Science and Engineering Student at Muthoot Institute of Technology and Science. 
-### Interested in Web Development and exploring AI.
-### Passionate about technology and enthusiastic to explore, learn, and improve step by step.
+<strong>
+
+Computer Science and Engineering Student at Muthoot Institute of Technology and Science.<br>
+Interested in Web Development and exploring AI.<br>
+Passionate about technology and enthusiastic to explore, learn, and improve step by step.<br>
+</strong>
 
 <br>
 
@@ -60,5 +63,3 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
----
