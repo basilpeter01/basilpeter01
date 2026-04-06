@@ -54,7 +54,7 @@ Passionate about technology and enthusiastic to explore, learn, and improve step
     <a href="https://www.github.com/basilpter01">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/basil-peter-in" target="_blank">
+  <a href="https://www.linkedin.com/in/basil-in" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 <a href="https://www.instagram.com/baze_max_">
