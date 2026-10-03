@@ -1,11 +1,6 @@
-# HELLO WORLD 👋, I'm Basil
+# Hi there 👋, I'm Basil Peter
 
-<strong>
 
-Computer Science and Engineering Student at Muthoot Institute of Technology and Science.<br>
-Interested in Web Development and exploring AI.<br>
-Passionate about technology and enthusiastic to explore, learn, and improve step by step.<br>
-</strong>
 
 ---
 
