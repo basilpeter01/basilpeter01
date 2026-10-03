@@ -48,3 +48,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=basilpeter01&style=flat-square&color=blue" alt="Profile Views" />
+</p>
