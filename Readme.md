@@ -2,32 +2,23 @@
 
 
 
+### About Me
+- 🎓 I'm currently studying **Computer Science and Engineering** at Muthoot Institute of Technology and Science.
+- ⚡ Learning and exploring **Web Development** and **AI**.
+- 💡 Passionate about technology and enthusiastic to explore, learn, and improve.
+
 ---
 
-### 👨‍💻 Languages and Frameworks
+### 🛠️ Skills & Technologies
 
-<p>
-
-  <img src="https://skillicons.dev/icons?i=c" alt="c"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="python"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="java"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="js"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css"/>
-  <img src="https://skillicons.dev/icons?i=flask" alt="flask"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
-
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,expressjs,nodejs,flask,mysql,mongodb&perline=10" alt="Languages and Frameworks" />
 </p>
 
-### 🧰 Tools & Platforms
-
-<p>
-
-  <img src="https://skillicons.dev/icons?i=git" alt="git" />
-  <img src="https://skillicons.dev/icons?i=github" alt="github"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscdode"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux"/>
-
+**Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&perline=10" alt="Tools and Platforms" />
 </p>
 
 ---
