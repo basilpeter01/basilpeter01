@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/basilpeter01/gh-tech-tree">
+  <a href="https://github.com/basilpeter01/gh-tech-tree" target="_blank">
     <img src="https://raw.githubusercontent.com/basilpeter01/gh-tech-tree/main/tech-tree.svg" alt="Tech Ecosystem Dependency Graph" width="50%" align="left"/>
   </a>
 </p>
